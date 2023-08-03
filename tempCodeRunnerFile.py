@@ -1,0 +1,1 @@
+df['tweet'] = df['tweet'].apply(clean)
